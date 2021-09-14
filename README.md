@@ -1,6 +1,11 @@
 <p><b><h1>Hi people <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1></b></p><br>
 <h3>🖤Hello !
-I'm Aditya Prakash
+I'm Aditya Prakash and I am currently pursuing B.Tech(CSE) from SOA University (ITER),Bhubaneshwar. My hobbies include digital illustrations,photography and badminton.
+I am intrested in learning new stuffs regarding Machine Learning and Artificial Intelligence.I'm enthusiastically looking forward to contribute to open source projects through GitHub.
+
+
+
+    
 </h3><br>
     
     
