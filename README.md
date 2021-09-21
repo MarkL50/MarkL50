@@ -17,6 +17,9 @@ I am intrested in learning new stuffs regarding Machine Learning and Artificial 
 - <b><h3>- 👬 Looking forward to collaborate with ML/AI developers.</h3></b>
 - <b> <h3>- 😄 Pronouns: he/him. </h3></b>
 - <b><h3>- ⚡ Fun fact: I am into competitive gaming (or gaming in general) too. So we can connect there too ;) </h3></b>
+- <b><h3>- POSITION OF RESPONSIBILITY</b></h3>
+- <b><h3>- 1.AI/ML Member at GDSC BIT Mesra</b></h3>
+- <b><h3>- 2.MEMBER OF HACKCLUB ITER<b></h3>
 - <b><h3> - 📫 How to reach me:</h3></b>
 <p align='center'>
 -<a href = "https://www.linkedin.com/in/aditya-prakash-4a0438208/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
