@@ -27,4 +27,8 @@ I am intrested in learning new stuffs regarding Machine Learning and Artificial 
 -<a href = "https://instagram.com/adityap897"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 -<a href = "https://www.facebook.com/adityap897/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a></p>
     
-
+## ⚙ Statistics and Languages 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=MarkL50&show_icons=true&theme=tokyonight%22%3E%3Cimg%20width=%2240%%22%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=MarkL50&layout=compact&theme=tokyonight"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkL50&layout=compact&theme=tokyonight"> 
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkL50&" alt="MarkL50" /></p>
+    
