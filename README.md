@@ -13,7 +13,7 @@ I am intrested in learning new stuffs regarding Machine Learning and Artificial 
 - <b><h3> I’m Aditya Prakash</h3></b>
 - <b><h3>- 🔭 I’m currently a cs undergrad in SOA university✨</h3></b>
 - <b><h3>- 🌱 I’m currently learning about Data Structures and Algorithms and will soon start machine learning.</h3></b>
-- <b><h3>- 💬 Ask me about Java and DSA.</h3></b>
+- <b><h3>- 💬 Ask me about Java, DSA, Frontend Web devlopment.</h3></b>
 - <b><h3>- 👬 Looking forward to collaborate with ML/AI developers.</h3></b>
 - <b> <h3>- 😄 Pronouns: he/him. </h3></b>
 - <b><h3>- ⚡ Fun fact: I am into competitive gaming (or gaming in general) too. So we can connect there too ;) </h3></b>
