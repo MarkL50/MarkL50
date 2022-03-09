@@ -19,6 +19,7 @@ I am intrested in learning new stuffs regarding Machine Learning and Artificial 
 - <b><h3>- ⚡ Fun fact: I am into competitive gaming (or gaming in general) too. So we can connect there too ;) </h3></b>
 - <b><h3>- POSITION OF RESPONSIBILITY</b></h3>
 - <b><h3>- 1.AI/ML Member at GDSC BIT Mesra</b></h3>
+- <b><h3>- 2.Management member  at GDSC ITER Bhubaneswar</b></h3>
 - <b><h3>- 2.MEMBER OF HACKCLUB ITER<b></h3>
 - <b><h3> - 📫 How to reach me:</h3></b>
 <p align='center'>
